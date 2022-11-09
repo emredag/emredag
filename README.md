@@ -12,17 +12,24 @@
 <br/>
 
 ### Technologies 🛠
-
-[<img align="center" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="center" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="center" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img align="center" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="center" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-
-<br />
+ 
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+ 
+ <br />
+ <br />
+ <br />
+ <br />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emredag&layout=compact&theme=merko)](https://github.com/emredag?tab=repositories)
+ <br />
   
 <h4 align="center">Visitor's count :eyes:</h4>
 
@@ -30,11 +37,7 @@
 
 [linkedin]: https://www.linkedin.com/in/emredag/
 [gmail]: mailto:ewredag@gmail.com
-[html]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
-[css]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
-[bootstrap]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
-[javascript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-[react]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+
 
 </div>
 
